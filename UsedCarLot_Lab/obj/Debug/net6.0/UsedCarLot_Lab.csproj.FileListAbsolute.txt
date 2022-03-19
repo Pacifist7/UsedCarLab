@@ -1,0 +1,15 @@
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\bin\Debug\net6.0\UsedCarLot_Lab.exe
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\bin\Debug\net6.0\UsedCarLot_Lab.deps.json
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\bin\Debug\net6.0\UsedCarLot_Lab.runtimeconfig.json
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\bin\Debug\net6.0\UsedCarLot_Lab.dll
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\bin\Debug\net6.0\ref\UsedCarLot_Lab.dll
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\bin\Debug\net6.0\UsedCarLot_Lab.pdb
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.csproj.AssemblyReference.cache
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.AssemblyInfoInputs.cache
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.AssemblyInfo.cs
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.dll
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\ref\UsedCarLot_Lab.dll
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.pdb
+C:\Users\anass\source\repos\UsedCarLot_Lab\UsedCarLot_Lab\obj\Debug\net6.0\UsedCarLot_Lab.genruntimeconfig.cache
